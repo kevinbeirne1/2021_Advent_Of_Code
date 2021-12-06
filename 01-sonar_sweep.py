@@ -23,16 +23,17 @@
 """
 
 import unittest
-from pathlib import Path
+# from pathlib import Path
+from helper_functions import read_txt_file_contents
 
 
-def read_txt_file_contents(filename_to_read):
-    """
-    Read depths from txt file and return as a list
-    """
-    with open(Path.cwd()/filename_to_read) as f:
-        contents = (f.readlines())
-    return contents
+# def read_txt_file_contents(filename_to_read):
+#     """
+#     Read depths from txt file and return as a list
+#     """
+#     with open(Path.cwd()/filename_to_read) as f:
+#         contents = (f.readlines())
+#     return contents
 
 
 def consecutive_increasing_depths_count(depths_array):
@@ -230,7 +231,7 @@ class TestConsecutiveIncreasingDepthsCount(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    depth_data = read_txt_file_contents('01_depth_data.txt')
+    depth_data = read_txt_file_contents('01-depth_data.txt')
     print(consecutive_increasing_depths_count_part2(depth_data))
     unittest.main()
 

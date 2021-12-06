@@ -8,7 +8,10 @@ There are 2 problems released each day, from 1st December to the 25th.
 
 ## Problem Overview
 - 01a - Given an array of numbers count the number of times that numbers[ i ] > numbers[ i + 1]
-- 01b - With the same array of numbers count the number of times that group numbers[ i : i + 3] > numbers[ i + 1 : i + 4]   
+- 01b - With the same array of numbers count the number of times that group numbers[ i : i + 3] > numbers[ i + 1 : i + 4]
+- 02a - Given an array of `direction number` calculate a final position vector
+- 02b - With same array, directions have different affects
+- 
 
 ---
 
