@@ -15,7 +15,8 @@ There are 2 problems released each day, from 1st December to the 25th.
 - 03b - With same array, at each bit position exclude the numbers that have the most/least common bit at that position.
 - 04a - Array of bingo boards and drawn numbers, multiply the last drawn number by the sum of the non called numbers in winning board
 - 04b - Same array, get the same product for the last winning board
-
+- 05a - Array of vent vectors, calculate the number of nodes where horizontal/vertical vectors that overlap
+- 05b - Same array, now include diagonal vectors
 ---
 
 [Advent of Code Website](https://adventofcode.com/)
