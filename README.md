@@ -19,6 +19,8 @@ There are 2 problems released each day, from 1st December to the 25th.
 - 05b - Same array, now include diagonal vectors
 - 06a - Array of times till fish births (with fixed period for birth), calculate the population after 80 days
 - 06b - Same array, calculate the population after 256 days
+- 07a - Array of nodes. Find the minimum of the distances from each node to a single other node
+- 07b - Same array, distance value increases at greater rate when further away. Calculate the new minimum node position
 ---
 
 [Advent of Code Website](https://adventofcode.com/)
