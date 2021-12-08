@@ -17,6 +17,8 @@ There are 2 problems released each day, from 1st December to the 25th.
 - 04b - Same array, get the same product for the last winning board
 - 05a - Array of vent vectors, calculate the number of nodes where horizontal/vertical vectors that overlap
 - 05b - Same array, now include diagonal vectors
+- 06a - Array of times till fish births (with fixed period for birth), calculate the population after 80 days
+- 06b - Same array, calculate the population after 256 days
 ---
 
 [Advent of Code Website](https://adventofcode.com/)
