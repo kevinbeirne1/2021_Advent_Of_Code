@@ -21,6 +21,8 @@ There are 2 problems released each day, from 1st December to the 25th.
 - 06b - Same array, calculate the population after 256 days
 - 07a - Array of nodes. Find the minimum of the distances from each node to a single other node
 - 07b - Same array, distance value increases at greater rate when further away. Calculate the new minimum node position
+- 08a - Array of strings, that correspond to the numbers 0-9 in 7 segment display, and 4 digit output. Count the number of times 1, 4, 7, 8 appear in output
+- 08b - Same array, decode the all the outputs and calculate the sum
 ---
 
 [Advent of Code Website](https://adventofcode.com/)
