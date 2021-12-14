@@ -47,7 +47,9 @@ The individual files for each day have the full text of the problem description
 ### 12DEC21 - Passage Pathing
 1. Array of strings, mapping out connections of nodes. Find all possible paths, where lower case nodes can only be visited once
 2. Same array. Find all paths, when lower case can be visited twice
-
+## 13DEC21 - Transport Origami
+1. Array of indices, and fold instructions. Calculate how many points are visible after first fold
+2. Same array. Find out the letters that are spelled out after completing all folds
 ---
 [2021 Advent of Code](https://adventofcode.com/2021/)
 
