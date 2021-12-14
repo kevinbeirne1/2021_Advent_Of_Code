@@ -44,8 +44,9 @@ The individual files for each day have the full text of the problem description
 ### 11DEC21 - Dumbo Octopus
 1. Array of numbers. Increment all the numbers in the grid, any number that would become 10 it 'flashes' and becomes 0 and increments all the surrounding numbers. Sum the number of flashes
 2. Same array. Calculate the number of iterations that's needed for all the numbers to synchronise their flashes
-
-
+### 12DEC21 - Passage Pathing
+1. Array of strings, mapping out connections of nodes. Find all possible paths, where lower case nodes can only be visited once
+2. Same array. Find all paths, when lower case can be visited twice
 
 ---
 [2021 Advent of Code](https://adventofcode.com/2021/)
