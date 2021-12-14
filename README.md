@@ -37,7 +37,7 @@ The individual files for each day have the full text of the problem description
 2. Same array, decode the all the outputs and calculate the sum
 ### 09DEC21 - Smoke Basin 
 1. Array of numbers, find the numbers that are less than all surrounding digits and sum them
-2. Same array, find the three largest basins (areas enclosed by 9) and multiply their sizes **UNSOLVED**
+2. Same array, find the three largest basins (areas enclosed by 9) and multiply their sizes
 ### 10DEC21 - Syntax Scoring
 1. Array of strings containing various parentheses. In each string find the first invalid closing bracket
 2. Same array, find the brackets that are required to created a valid completed string
