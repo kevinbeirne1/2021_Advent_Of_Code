@@ -50,6 +50,9 @@ The individual files for each day have the full text of the problem description
 ## 13DEC21 - Transport Origami
 1. Array of indices, and fold instructions. Calculate how many points are visible after first fold
 2. Same array. Find out the letters that are spelled out after completing all folds
+## 14DEC21 - Extended Polymerization
+1. A string, and an array describing the letter that gets inserted between a matching pair during each iteration. Do 10 iterations and calculate the difference in counts of max and min occuring characters
+2. Same array, same requirement but get the calculation after 40 iterations
 ---
 [2021 Advent of Code](https://adventofcode.com/2021/)
 
