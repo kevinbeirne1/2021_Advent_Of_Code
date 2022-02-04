@@ -230,6 +230,7 @@ least common element?
 """
 
 
+
 class PolymerVersion2:
     """
     First version was done by generating the new string each iteration.

@@ -53,6 +53,16 @@ The individual files for each day have the full text of the problem description
 ## 14DEC21 - Extended Polymerization
 1. A string, and an array describing the letter that gets inserted between a matching pair during each iteration. Do 10 iterations and calculate the difference in counts of max and min occuring characters
 2. Same array, same requirement but get the calculation after 40 iterations
+## 15DEC21 - Chiton
+1. An array of numbers, calculate the shortest path from the top left corner to the bottom right
+2. The same array is made 5x wider and deeper, calculate the shortest path with this larger array
+## 16DEC21 - Packet Decoder
+1. A hexadecimal string comprising blocks of binary data. Calculate the sum of all the versions encoded in the binary blocks
+2. Same string, calculate the output of the encoded binary data/operations
+## 17DEC21 - Trick Shot
+1. A string given with a target area. Calculate the initial velocity that gives the highest point and lands in the target
+2. Same target area, calculate the total the number of initial velocities that land in the target zones
+
 ---
 [2021 Advent of Code](https://adventofcode.com/2021/)
 
